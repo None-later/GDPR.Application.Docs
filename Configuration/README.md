@@ -16,4 +16,4 @@ The Privacy Platform has many different components.  You may or may not use all 
 
 # Next Steps (Applications)
 
-Now that all necessary 3rd party applications are setup and integrated, you can [create tenants and applications](../Applications/readme.md)
+Now that all necessary 3rd party applications are setup and integrated, you can [create tenants and applications](../Applications/README.md)

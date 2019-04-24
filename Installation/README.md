@@ -30,6 +30,6 @@ In most cases, you will find it easier and more secure to not managed user passw
 
 - [Configure 3rd Party Auth](Authentication.md)
 
-#   Next step ([Configuration](../Configuration/readme.md))
+#   Next step ([Configuration](../Configuration/README.md))
 
-Now that you have the core system setup, its time to move onto setting up tenants and applications via [configuration](../Configuration/readme.md)
+Now that you have the core system setup, its time to move onto setting up tenants and applications via [configuration](../Configuration/README.md)

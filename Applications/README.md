@@ -57,6 +57,6 @@ You can upload new application templates based on your own custom internal appli
 
 A more flexible way of connecting your applications to the platform is to utilize the windows service application type to send message to on-premises services for processing.
 
-# Next Step ([Operation](../Operation/readme.md))
+# Next Step ([Operation](../Operation/README.md))
 
 Now that you have some applications created and configured, you can now start inviting users to make requests.  As part of this process, you will need to handle and montior the requests to ensure that the system is functioning properly.
