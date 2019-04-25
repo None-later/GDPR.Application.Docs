@@ -4,7 +4,7 @@ Welcome to the Privacy Platform documentation pages.  From here you can browse t
 
 ##  End-user Topics
 
-If you are an end user, reference the [end user documentation](./EndUser/README.md).
+If you are an end user, reference the [end user documentation](./End User/README.md).
 
 ## High-Level Topics (Administrators)
 
