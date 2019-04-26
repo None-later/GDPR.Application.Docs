@@ -12,3 +12,7 @@ Here are some of the more common tasks you are an end users are likely to perfor
 -   [Finding registered applications](FindingApplications.md)
 -   [Submitting queries](SubmittingRequests.md)
 -   [Deleting your account](DeleteAccount.md)
+
+## Frequently Asked Questions (FAQs)
+
+You can reference our FAQ section [here](FAQs.md).
