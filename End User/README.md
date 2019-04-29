@@ -8,10 +8,19 @@ Here are some of the more common tasks you are an end users are likely to perfor
 
 -   [Registering for Service](Registering.md)
 -   [Adding your data](AddingData.md)
+-   [Verifying your data](DataVerification.md)
 -   [Securing your data](SecuringData.md)
--   [Finding registered applications](FindingApplications.md)
+-   [Finding registered applications](Search_Applications.md)
 -   [Submitting queries](SubmittingRequests.md)
 -   [Deleting your account](DeleteAccount.md)
+
+##  Top Pages
+
+-   [Consents](Consents.md)
+-   [Dependents](Dependents.md)
+-   [Devices](Devices.md)
+-   [Requests](Requests.md)
+-   [Exports](Exports.md)
 
 ## Frequently Asked Questions (FAQs)
 

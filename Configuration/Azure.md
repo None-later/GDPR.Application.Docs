@@ -4,4 +4,8 @@ Microsoft Azure serves as the core for all privacy platform services.  All web a
 
 ## Setup
 
+TODO
+
 ## Configuration
+
+TODO

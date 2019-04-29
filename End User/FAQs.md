@@ -40,6 +40,10 @@ When an application has completed the request, they will send us back in the inf
 
 Due to legal requirements, not all data can be deleted.  For example, if you have a contract with a company that expires 3 years from now, that anything relating to that contract must be retained for those 3 years, plus any legal retention period (which could be up to 7 years in some cases).  Companies are able to add policies to their applications record types that would describe to you the retenion requirements of the data for your reference.  This is a voluntary process and not all companies will provide this.
 
+##  Why can't I delete a piece of data?
+
+Data can be deleted at any time, however, if it is tied to an active request, it must be kept during and after the request for a period of one year.
+
 ##  Why can't I delete my account?
 
-TODO
+It is likely that you have submitted a request and we must keep your account available for a period of one year.  However, you can choose to encrypt your account by [setting your pin](SecuringData.md).

@@ -37,7 +37,7 @@ For backup and restore purposes, you can export and import applications.  This c
 
 ## Basic Properties
 
-Basic properties are properties that all applications have.  The include:
+Basic properties are properties that all applications have.  They include:
 
 -   TODO
 
@@ -50,6 +50,8 @@ Each application can have specific properties that guide its function.  In some 
 Each application supports a variety of actions.  
 
 ## Reports
+
+-   TODO
 
 ## Uploading Application Templates
 

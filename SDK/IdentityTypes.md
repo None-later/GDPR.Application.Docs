@@ -12,7 +12,7 @@ In the absence of a privacy score, this data is the least reliable in terms of i
 
 Email is one of the most easily verified forms of identity.  And since it is used in a majority of applications as the username, it presents the fastest and easiest form of search and verification.
 
-A user have have mulitple emails.
+A user can have mulitple emails.
 
 ##  Phone
 

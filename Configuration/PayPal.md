@@ -23,8 +23,6 @@ PayPal is the preferred payment processing engine for the privacy platform.  It 
 -   Click **Receive IPN messages (Enabled)**
 -   Click **Save**
 
-
-
 ## Setup PayPal Application
 
 -   Open the [PayPal Developer Portal]()

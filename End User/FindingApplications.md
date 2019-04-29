@@ -1,3 +1,0 @@
-# Finding Applications
-
-TODO
