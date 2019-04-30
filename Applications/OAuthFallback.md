@@ -18,3 +18,7 @@ The following are the valid Privacy Central Application ids used for OAuthFallba
 | ----------|:-------------:|
 | **Application** | **Client ID** |
 |Azure AD | TODO|
+|Constant Contact | TODO|
+|Dynamics | TODO|
+|SalesForce | TODO|
+|Yammer | TODO|
