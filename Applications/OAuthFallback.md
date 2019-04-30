@@ -14,4 +14,7 @@ Some applications support the ability to fallback to a system level Client ID an
 
 The following are the valid Privacy Central Application ids used for OAuthFallback and 3rd party identity login:
 
-TODO
+|    |            |
+| ----------|:-------------:|
+| **Application** | **Client ID** |
+|Azure AD | TODO|

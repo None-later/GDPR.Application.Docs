@@ -35,23 +35,25 @@ Depending on your subscription or license level, you will be able to create any 
 
 For backup and restore purposes, you can export and import applications.  This can also be used to ensure you can get back to a good state in case you change the properties and break something.
 
-## Basic Properties
+## Application Settings
 
-Basic properties are properties that all applications have.  They include:
+Application settings are at a record level for the application and are not part of core or specific properties.  Reference [Settings](Settings.md).
 
--   TODO
+## Core Properties
+
+Reference [Properties.md]. 
 
 ## Specific Properties
 
-Each application can have specific properties that guide its function.  In some cases, an application may ask for a username/password, in other cases, a simple API key.
+Each application can have specific properties that guide its function.  In some cases, an application may ask for a username/password, in other cases, a simple API key.  You can find specific properties of an application on its template page.
 
-## Actions
+## [Actions](Actions.md)
 
-Each application supports a variety of actions.  Reference [Actions](Actions.md)
+Each application supports a common set of actions provided the underlying application stub supports that action.  Reference [Actions](Actions.md)
 
-## Reports
+## [Reports](./Reports/README.md)
 
--   TODO
+Every application will generate various types of data during its operation.  These include logs around management plane and data plane activities.
 
 ## Uploading Application Templates
 
