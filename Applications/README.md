@@ -47,7 +47,7 @@ Each application can have specific properties that guide its function.  In some 
 
 ## Actions
 
-Each application supports a variety of actions.  
+Each application supports a variety of actions.  Reference [Actions](Actions.md)
 
 ## Reports
 
