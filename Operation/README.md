@@ -4,9 +4,10 @@ Once fully configured, you can start to promote your new privacy platform to you
 
 ## Common Tasks
 
--   Adding Applications
--   Creating Application Messages
--   Discovering Subjects
--   Performing Reports
--   Handleing Subject Requests (Pre and Post Approvals)
--   Re-apply a Delete action
+-   [Adding Applications](AddApplicationTemplate.md)
+-   [Creating Application Messages](ApplicationMessages.md)
+-   [Discovering Subjects](./Applications/Discovery.md)
+-   [Performing Reports](./Reports/README.md)
+-   [Handleing Subject Requests (Pre and Post Approvals)](RequestManagement.md)
+-   [Re-apply a Delete action](./Applications/ReDelete.md)
+-   [Reviewing Logs](./Logging.md)
