@@ -1,6 +1,6 @@
 # Requests
 
-After you have searched for a company or application, you can then submit requests to it.  Not all applications support every request type, nor do they support all the types of data you may have entered into the system.
+After you have searched for a [company]() or [application](), you can then submit requests to it.  Not all applications support every request type, nor do they support all the types of data you may have entered into the system.
 
 ##  Types of requests
 
