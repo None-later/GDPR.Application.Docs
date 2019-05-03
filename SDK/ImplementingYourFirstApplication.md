@@ -4,24 +4,63 @@ This is a high-level of steps you need to implement in order to create your firs
 
 ##  Set Basic Properties
 
--   ShortName
--   LongName
 -   Version
--   Template ID
+-   Template ID: A uniquely generated GUID
+
+### For Example
+
+```
+this._version = "1.0.0.0";
+this.TemplateId = Guid.Parse("2A0BAE13-0046-4DC2-A360-F853C16329E3");
+```
 
 ##  Set Search Support Properties
 
-TODO
+Ensure that you set the following properties to true for each on that you implement in your application stub.
+
+### For Example
+
+```
+this._supportsPersonalSearch = false;
+this._supportsAddressSearch = false;
+this._supportsEmailSearch = true;
+this._supportsIdentitySearch = false;
+this._supportsPhoneSearch = true;
+this._supportsDnaSearch = false;
+this._supportsBioidentitySearch = false;
+this._supportsSocialSearch = false;
+```
 
 ##  Set GDPR Support Properties
 
-TODO
+Not all applications will support the GDPR actions.  However, you should at least implment the "query" and "consent" ones:
+
+-   GDPR Query
+-   GDPR Delete
+-   GDPR Update
+-   GDPR Hold
+
+### For Example
+
+```
+this._supportsGDPRDelete = true;
+this._supportsGDPRHold = true;
+this._supportsGDPRInsert = true;
+this._supportsGDPRQuery = true;
+this._supportsGDPRUpdate = true;
+```
 
 ##  Set export mode
 
 Applications can export records or a link to an export.  If your application supports record export, it can be fed to the approver of a data subject request such that they can modify the data that will be sent back to a user.  
 
 If your application returns a link to an export, an approver can also click the link to review the exported data before it is sent to the data subject.
+
+### For Example
+
+```
+this._supportsRecords = true;
+```
 
 ##  Implement Privacy Methods
 
