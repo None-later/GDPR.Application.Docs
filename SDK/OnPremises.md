@@ -12,6 +12,8 @@ You can have any number of these services running at any time.  But your tenant 
 
 The windows service proxy will monitor the platform application event hub and send messages to your application, additionally it will send responses to the platform via the same event hub.  Configuration of the windows service is as simply as downloading the PGP key and adding configuration.json file settings.
 
+See [Configuring on-premises service](./ConfigureWindowsServiceApplication.md).
+
 ##  Event Hub Architecture
 
 Each time you create a new Windows Service based application in the portal, a new public/private PGP key will be created.  It is your responsiblity to save the private key with its password such that you can send encrypted and signed messages via the windows service proxy application.

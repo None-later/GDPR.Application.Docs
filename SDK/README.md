@@ -11,6 +11,11 @@ There are two main projects that drive the SDK.  One is the lower level "Common"
 
 These project contain a plethora of helpful code when working with privacy-first applications.
 
+The platform for development is Microsoft .NET targeting the .NET Framework 4.71.  You will need Visual Studio and the developer tools:
+
+-   [Visual Studio 2017]()
+-   [.NET Framework 4.71](https://dotnet.microsoft.com/download/visual-studio-sdks?utm_source=getdotnetsdk&utm_medium=referral)
+
 ##  Application Stubs (GDPRApplictionBase)
 
 An "application stub" is an application class that inherits from "GDPR.Common.Application.GDPRApplictionBase".  Inheritance from this base class will provide you with the guided (aka forced) implmentation of methods and properties via abstract methods and interfaces to support the Privacy Central platform.
