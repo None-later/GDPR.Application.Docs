@@ -4,4 +4,4 @@ There are several ways to find an application.  You can search based on its name
 
 ## How To Video
 
-TODO
+COMING SOON!

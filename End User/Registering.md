@@ -17,4 +17,4 @@ Additionally, to support individuals that may not have a supported 3rd party aut
 
 ##  IVR/Phone Login
 
-If you do not have an email address, you can also authenticate to the system using your mobile phone.  You can find the phone number to call on the privacy platfomr login/registration pages.
+If you do not have an email address, you can also authenticate to the system using your mobile phone.  You can find the phone number to call on the privacy platform login/registration pages.

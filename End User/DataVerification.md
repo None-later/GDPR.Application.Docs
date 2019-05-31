@@ -2,13 +2,13 @@
 
 The following are the various types of data you can enter into the privacy platform.  Not all of these may be active for your instance and not all will be supported across all applications as a search parameter.
 
--   Addresses
--   Biometrics
--   Dna
--   Emails
--   Government identity
--   Phones
--   Social Identity
+-   [Addresses](Profile_Addresses.md)
+-   [Biometrics](Profile_Biometrics.md)
+-   [Dna](Profile_Dna.md)
+-   [Emails](Profile_Emails.md)
+-   [Government identity](Profile_GovernmentIdentity.md)
+-   [Phones](Profile_Phones.md)
+-   [Social Identity](Profile_SocialIdentity.md)
 
 ## Current Active Data Types
 

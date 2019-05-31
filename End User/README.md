@@ -1,6 +1,6 @@
 # Welcome to the Privacy Central End User documentation
 
-Privacy Central is dedicated to bringing privacy to every organization, application and end users on the planet.  This documentation has been developed to help you navigate executing requests and getting the most out of the platform.  
+Privacy Central is dedicated to bringing privacy to every organization, application and end user on the planet.  This documentation has been developed to help you navigate executing requests and getting the most out of the privacy platform(s).  
 
 ## High-level tasks
 

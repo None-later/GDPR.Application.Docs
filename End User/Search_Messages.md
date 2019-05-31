@@ -4,4 +4,4 @@ You can search through both application and subject messages for specific text o
 
 ## How To Video
 
-TODO
+COMING SOON!

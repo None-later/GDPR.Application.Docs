@@ -1,6 +1,6 @@
 # Adding Data
 
-In order to be matched to remote applications, you must add your personal data.  This data can is broken into many different categories.
+In order to be matched to remote applications, you must add your personal data.  This data is classified into a few different categories.
 
 ##  Types of data
 
