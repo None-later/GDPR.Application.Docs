@@ -4,7 +4,7 @@ We are striving to support as many languages as we can, to support this effort w
 
 #   Languages we support
 
-We currently have targted the support of the following languages:
+We currently have targeted the support of the following languages (they may or may not be enabled on the platform):
 
 -   Arabic (AR)
 -   German (DE)

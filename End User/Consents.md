@@ -8,6 +8,7 @@ There are two types of consents in the privacy platform.  You may select from ei
 
 -   Full Consent:  You will allow them to contact you with their own marketing activities and be able to sell your data to others
 -   Partial Consent:  You only allow the actual company or application to utlize your data to contact you.  They are not allowed to sell you data.
+-   Marketing Conset:   You will allow a company to market to you other products, but only from the company from which you derive services.
 
 ##  Removing your Consent
 

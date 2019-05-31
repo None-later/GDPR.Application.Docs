@@ -7,3 +7,5 @@ It works by encrypting a message with your private key, then you post that messa
 ##  PGP
 
 We use a similar pattern of authentication between the privacy platform and remote applications.  This allows us to validate a remote application is who it says it is and likewise, they can be assured that any messages did originate from the privacy platform.
+
+-   Reference [Keybase.io](https://keybase.io)
