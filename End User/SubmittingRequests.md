@@ -6,20 +6,20 @@ Keep in mind that not every application (due to API or design limitations) will 
 
 ##  Consent Requests
 
-TODO
+Reference [Consents](Consents.md)
 
 ##  Query Requests
 
-TODO
+Reference [Query](Query.md)
 
 ##  Update Requests
 
-TODO
+Reference [Update](Update.md)
 
 ##  Delete Requests
 
-TODO
+Reference [Delete](Delete.md)
 
 ##  Hold Requests
 
-TODO
+Reference [Hold](Hold.md)
