@@ -6,8 +6,8 @@ After you have searched for a [company](Search_Tenants.md) or [application](Sear
 
 Privacy legislation provides you will certain "rights".  Across all the privacy legislation that has been released, we have summarized these into the [Data Subject Action Pattnern (DSAP)](./SDK/DataSubjectActionPattern.md).
 
--   Consent
--   Query
--   Update
--   Delete
--   Hold
+-   [Consent](Request_Consents.md)
+-   [Query](Request_Query.md)
+-   [Update](Request_Update.md)
+-   [Delete](Request_Delete.md)
+-   [Hold](Request_Hold.md)
