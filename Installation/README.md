@@ -1,12 +1,12 @@
 # Installation
 
-The Privacy Platform installer requires a simple Azure AD Application and Secret in order to create all the necessary resources a new instance will need.
+The Privacy Platform installer requires a simple Azure AD Application Client Id and Client Secret in order to create all the necessary Azure resources a new privacy platform instance will need.
 
 ## Pre-requisities
 
 -   Azure AD Application
 -   Azure Management Permissions
--   Setup configuration.json
+-   A populated configuration.json file
 -   3rd Party Login Applications
 
 ## Setup Azure Subscriptions

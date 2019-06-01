@@ -4,7 +4,7 @@ The Install Utility will create all the needed resources in your Azure tenant.  
 
 ## Download the Install Utility
 
-Ask your partner or privacy platform representative for access to the platform download utility.  For a list of ceritied partners, reference this [list](./Partners.md).
+Ask your partner or privacy platform representative for access to the platform download utility.  For a list of certified partners, reference this [list](./Partners.md).
 
 ## Update the Configuration File
 
@@ -26,9 +26,9 @@ After you have updated your configuration file, run the InstallUtil.exe utility 
 A succesful installation will be verified by doing the following:
 
 -   Open your [Azure Portal](https://portal.azure.com)
--   Your should see something similar to the following:
+-   You should see something similar to the following:
 
-TODO
+TODO Image
 
 ## Items created during Installation
 

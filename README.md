@@ -8,7 +8,7 @@ If you are an end user, reference the [end user documentation](./End%20User/READ
 
 ##  Tenant Topics
 
-If you are an end user, reference the [operation documentation](./Operation/README.md).
+If you are an tenant administrator, reference the [operations documentation](./Operation/README.md).
 
 ## High-Level Topics (Administrators)
 
@@ -21,6 +21,6 @@ If you are an end user, reference the [operation documentation](./Operation/READ
 
 ## Need Help?  
 
-Email us at [support@privacycentral.com](mailto:support@privacycentralcom)
+Email us at [support@privacycentral.com](mailto:support@privacycentral.com)
 
 For a list of certified partners, reference [here](Partners.md)
