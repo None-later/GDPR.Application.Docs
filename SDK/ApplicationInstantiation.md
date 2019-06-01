@@ -38,9 +38,12 @@ When an application is browsed for the possiblity of a data subject request, the
 
 ##  Configuration
 
-
+TODO
 
 ##  Validation
 
+TODO
+
 ##  Execution
 
+TODO
